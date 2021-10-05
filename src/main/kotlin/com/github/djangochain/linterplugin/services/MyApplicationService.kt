@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.djangochain.linterplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.djangochain.linterplugin.MyBundle
 
 class MyApplicationService {
 
